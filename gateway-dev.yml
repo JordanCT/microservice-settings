@@ -1,4 +1,4 @@
 JwtSettings:
-  Issuer: bcp.com.pe,
-  Audience: public,
+  Issuer: bcp.com.pe
+  Audience: public
   SecretKey: NABCEMNBWHASONMSRZPOUNABCEMNBWHASONMSRZPOUONS278650124508754329833
